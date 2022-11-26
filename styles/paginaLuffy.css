@@ -1,0 +1,37 @@
+.logoL{
+    max-width: 140px;
+    position: absolute;
+    top: 2px;
+}
+.imagens {
+    position: absolute;
+    left: 291px;
+    top: 400px;
+}
+.nome {
+    position: absolute;
+    left: 612px;
+    top: 70px;
+}
+.hist {
+    position: absolute;
+    left: 450px;
+    top: 197px;
+}
+.imag {
+    position: absolute;
+    left: 606px;
+    top: 330px;
+}
+.luffy1{
+    max-width: 198px;
+}
+.luffy2{
+    max-width: 230px;
+}
+.luffy3{
+    max-width: 150px;
+}
+.luffy4{
+    max-width: 183px;
+}

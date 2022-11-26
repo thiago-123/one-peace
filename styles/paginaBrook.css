@@ -1,0 +1,39 @@
+.logoL{
+    max-width: 140px;
+    position: absolute;
+    top: 2px;
+}
+
+.nome {
+    position: absolute;
+    left: 612px;
+    top: 70px;
+}
+.hist {
+    position: absolute;
+    left: 450px;
+    top: 197px;
+}
+.imag {
+    position: absolute;
+    left: 606px;
+    top: 330px;
+}
+.brook1{
+    max-width: 197px;
+}
+.brook2{
+    max-width: 179px;
+}
+.brook3{
+    max-width: 182px;
+}
+.brook4{
+    max-width: 153px;
+}
+.imagens {
+    position: absolute;
+    left: 291px;
+    top: 400px;
+}
+

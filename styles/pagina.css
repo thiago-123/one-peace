@@ -1,0 +1,108 @@
+.logo{
+    position: absolute;
+    max-width: 140px;
+    top: 2px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+li{
+    display: inline-block;
+    margin: 10px;
+}
+.his{
+    position: absolute;
+    left: 1182px;
+}
+.muguiwara {
+    max-width: 700px;
+    left: 644px;
+    position: absolute;
+    top: 88px;
+}
+.hist {
+    position: absolute;
+    left: 273px;
+    top: 142px;
+}
+.peson {
+    position: absolute;
+    top: 700px;
+    left: 473px;
+}
+.luffy {
+    position: absolute;
+    max-width: 266px;
+    top: 850px;
+    left: 173px;
+}
+.zoro {
+    position: absolute;
+    top: 850px;
+    left: 490px;
+    max-width: 153px;
+}
+.nami {
+    position: absolute;
+    max-width: 190px;
+    top: 850px;
+    left: 681px;
+}
+.usopp {
+    position: absolute;
+    max-width: 221px;
+    top: 850px;
+    left: 914px;
+}
+.pesona2 {
+    position: absolute;
+    left: 44px;
+}
+.sanji {
+    position: absolute;
+    max-width: 188px;
+    top: 1217px;
+    left: 173px;
+}
+.chop {
+    position: absolute;
+    max-width: 188px;
+    top: 1217px;
+    left: 406px;
+}
+.robin {
+    position: absolute;
+    max-width: 172px;
+    top: 1217px;
+    left: 642px;
+}
+.frank {
+    position: absolute;
+    max-width: 189px;
+    top: 1217px;
+    left: 860px;
+}
+.pesona3 {
+    position: absolute;
+    left: 250px;
+}
+.brook {
+    position: absolute;
+    max-width: 214px;
+    top: 1580px;
+    left: 174px;
+}
+.jinbe {
+    position: absolute;
+    max-width: 223px;
+    top: 1580px;
+    left: 430px;
+}
+
+
+
+
